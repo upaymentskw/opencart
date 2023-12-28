@@ -8,7 +8,7 @@ OpenCart 4.0.2.2
 
 == Installation ==
 
-1.Download the plugin file 
+1.Download the upay.ocmod.zip plugin file
 2.Sign in to your OpenCart 4 admin.
 3.Go to Extensions > Installer.
 4.Click on the Upload icon, and then select the downloaded file.
