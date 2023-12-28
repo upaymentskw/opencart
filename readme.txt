@@ -8,10 +8,11 @@ OpenCart 4.0.2.2
 
 == Installation ==
 
-1.Download the upay.ocmod.zip plugin file
+1.Download Opencart plugin from here
+2.Extract zip file.
 2.Sign in to your OpenCart 4 admin.
 3.Go to Extensions > Installer.
-4.Click on the Upload icon, and then select the downloaded file.
+4.Click on the Upload icon, and then select the upay.ocmod.zip file from extracted folder.
 5.Click on the Install icon of UPayments in the list of installed extensions.
 6.Once installed, click on the Extensions option in the main menu.
 7.Select Extensions and then Payments inside the Choose the extension type.
